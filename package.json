@@ -1,0 +1,13 @@
+{
+  "name": "donna-luiza-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site responsivo do Restaurante e Pizzaria Donna Luiza",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

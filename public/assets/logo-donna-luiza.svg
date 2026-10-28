@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Símbolo Donna Luiza</title><desc id="desc">Símbolo ilustrado de um veleiro diante do mar e de um coqueiro.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 91c12-5 20-5 32 0s20 5 32 0 16-5 20-2" stroke="#1B7777" stroke-width="3"/>
+    <path d="M20 100c12-5 20-5 32 0s20 5 32 0 16-5 20-2" stroke="#1B7777" stroke-width="2" opacity=".65"/>
+    <path d="M66 78V25" stroke="#8B5837" stroke-width="3.5"/>
+    <path d="M62 30 35 67h27Z" fill="#F28B38" stroke="#F28B38" stroke-width="2"/>
+    <path d="M70 38 95 68H70Z" fill="#E7BD7B" stroke="#E7BD7B" stroke-width="2"/>
+    <path d="M28 77h75l-12 10H40Z" fill="#1B7777" stroke="#1B7777" stroke-width="2"/>
+    <path d="M18 26c7-4 15-4 22 0M15 35c6-3 12-3 18 0" stroke="#1B7777" stroke-width="2" opacity=".6"/>
+    <path d="M94 28c-7-4-14-4-20 1 7 1 11 3 15 7-7-1-13 0-18 4 9 0 16 2 21 7 0-7 2-13 7-19-2 0-3 0-5 0Z" fill="#387E5E" stroke="#387E5E" stroke-width="1.5"/>
+    <path d="M91 43 84 76" stroke="#8B5837" stroke-width="3.5"/>
+  </g>
+</svg>
